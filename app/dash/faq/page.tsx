@@ -27,7 +27,7 @@ const faqs = [
   {
     question: "What libraries can I use?",
     answer:
-      "Standard libraries (numpy, pandas, etc.) and tensorflow (but please dont use 32gb of ram 😃)",
+      "[Pending Bugfix] We provide Numpy, Pandas, SKLearn, SciPy, and Torch right now (but please dont use 32gb of ram 😃)",
   },
   {
     question: "How can I do well in the competition?",
